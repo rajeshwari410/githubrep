@@ -1,1 +1,2 @@
 A for apple, b for ball
+c for cat, d for dog
